@@ -4,7 +4,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{subdomain-fu}
+  s.name = %q{subdomain_fu}
   s.version = "1.0.0.beta3"
 
   s.required_rubygems_version = Gem::Requirement.new("> 1.3.1") if s.respond_to? :required_rubygems_version=
@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION.yml",
-    "lib/subdomain-fu.rb",
+    "lib/subdomain_fu.rb",
     "lib/subdomain_fu/engine.rb",
     "lib/subdomain_fu/plugin.rb",
     "lib/subdomain_fu/subdomain_fu.rb",
